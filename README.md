@@ -1,1 +1,1 @@
-# Getr-nkedienst
+ver 1.0
